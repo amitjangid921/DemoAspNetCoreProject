@@ -1,0 +1,2 @@
+# DemoAspNetCoreProject
+Demo AspNet core
